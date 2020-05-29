@@ -1,3 +1,4 @@
+# Основной отчет в lab8.ipynb
 # Графики
 Practical
 
